@@ -1,7 +1,6 @@
 // ISABELA HERNANDEZ ZAPATA
 // 419317
 // isabela.hernandez@upb.edu.co
-(START)
 @16384
 D=A
 @1
